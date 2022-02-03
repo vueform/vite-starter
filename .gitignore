@@ -5,6 +5,3 @@ dist-ssr
 *.local
 package-lock.json
 yarn.lock
-
-/packages/vueform/*
-!/packages/vueform/.gitkeep

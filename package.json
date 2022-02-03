@@ -2,15 +2,15 @@
   "name": "@vueform/vite-starter",
   "version": "1.0.0",
   "private": false,
-  "description": "Vite boilerplate for Vueform",
+  "description": "Vueform Vite + TailwindCSS 3 Boilerplate",
   "licence": "MIT",
   "author": "Adam Berecz <adam@vueform.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vueform/vite.git"
+    "url": "git+https://github.com/vueform/vite-starter.git"
   },
   "bugs": {
-    "url": "https://github.com/vueform/vite/issues"
+    "url": "https://github.com/vueform/vite-starter/issues"
   },
   "scripts": {
     "dev": "vite",
