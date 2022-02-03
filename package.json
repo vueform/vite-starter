@@ -1,5 +1,5 @@
 {
-  "name": "@vueform/vite",
+  "name": "@vueform/vite-starter",
   "version": "1.0.0",
   "private": false,
   "description": "Vite boilerplate for Vueform",
