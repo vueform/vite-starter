@@ -15,7 +15,7 @@
 2. Log in to your account at <a href="https://vueform.com/sign-in" target="_blank">vueform.com/sign-in</a>
 3. Go to **Projects** > **+ New project**
 4. Add `localhost` to **Project urls** and create the project
-5. Download the `vueform-x.x.x-hash.zip` file and unzip it
+5. Download the latest `vueform-x.x.x-hash.zip` file and unzip it
 6. Move the **contents** of the unzipped folder to this projects's `./packages/vueform` folder (`./packages/vueform/index.js` must exist)
 
 ### npm
