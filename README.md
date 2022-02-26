@@ -5,7 +5,7 @@
 
 </a>
 
-# Vueform Vite + TailwindCSS 3 Boilerplate
+# Vueform Vite + Tailwind CSS 3 Boilerplate
 
 *Last tested with Vite 2.7.13.*
 

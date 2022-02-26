@@ -2,7 +2,7 @@
   "name": "@vueform/vite-starter",
   "version": "1.0.0",
   "private": false,
-  "description": "Vueform Vite + TailwindCSS 3 Boilerplate",
+  "description": "Vueform Vite + Tailwind CSS 3 Boilerplate",
   "licence": "MIT",
   "author": "Adam Berecz <adam@vueform.com>",
   "repository": {
