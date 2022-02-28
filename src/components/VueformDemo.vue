@@ -7,7 +7,7 @@
       :endpoint="false"
       @submit="handleSubmit"
     >
-      <StaticElement>
+      <StaticElement name="head">
         <div class="flex flex-col items-center w-full mb-8">
           <img src="src/assets/logo.svg" class="w-20 mx-auto block">
           <h1 class="text-xl font-semibold mx-auto mt-3">Login</h1>
