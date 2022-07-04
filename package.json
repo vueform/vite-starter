@@ -24,7 +24,7 @@
     "node-sass": "^6.0.1",
     "sass-loader": "^10.2.1",
     "vue": "^3.2.25",
-    "@vueform/vueform": "file:./packages/vueform"
+    "@vueform/vueform": "^1.2.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.0.0",

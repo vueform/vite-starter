@@ -5,4 +5,5 @@ export default {
   theme: tailwind,
   locales: { en },
   locale: 'en',
+  apiKey: 'YOUR-API-KEY-HERE',
 }
