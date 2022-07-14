@@ -13,11 +13,6 @@ export default defineConfig({
       },
     }),
   ],
-  resolve: {
-    alias: {
-      'composition-api': path.resolve(__dirname, 'node_modules/vue/dist/vue.runtime.esm-bundler.js'),
-    }
-  },
   optimizeDeps: {
     include: [
       'nouislider',
