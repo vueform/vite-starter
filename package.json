@@ -21,7 +21,7 @@
     "axios": "^0.25.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
-    "node-sass": "^6.0.1",
+    "node-sass": "^7.0.1",
     "sass-loader": "^10.2.1",
     "vue": "^3.2.25",
     "@vueform/vueform": "^1.2.6"
