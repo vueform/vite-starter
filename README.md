@@ -75,4 +75,4 @@ Vueform is the industry leading form builder for Vue.js that makes form developm
 - **dynamic** form rendering with **JSON** support
 - **translating** form content and global i18n support.
 
-Vueform [pre-release](https://vueform.com) is open for registration for the **first 100 developers** with **special discounts**. Learn more: [https://vueform.com](https://vueform.com)
+Learn more: [https://vueform.com](https://vueform.com)
