@@ -45,7 +45,7 @@
 Vueform is comprehensive **form development framework** for Vue.js. It supercharges and standardizes the entire form building process and takes care of everything from rendering to validation and processing. With our latest tool, the **Drag and Drop Form Builder**, you can allow your developers & non-tech workforce to build the most complex forms without coding.
 
 Feature highlights:
-- integrate Vueform Drag and Drop Form Builder into **any application**
+- integrate Vueform **Drag and Drop Form Builder** into **any application**
 - save forms in **database** as a JSON
 - use your **own form elements** with **custom configuration** options
 - a complete theming and templating system with **Tailwind support**
