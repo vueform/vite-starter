@@ -5,11 +5,11 @@
 
 </a>
 
-# Vueform + Tailwind CSS + Vite + Vue
+# Vueform + Vite + Tailwind
 
 *Last tested with Vite 4.3.5.*
 
-## Installation (free)
+## Installation
 
 1. Clone this repo with:<br>`git clone https://github.com/vueform/vite-starter vueform-vite-starter`
 
@@ -35,7 +35,7 @@
 
 ## About Vueform
 
-<a href="https://builder.vueform.com/demo?ref=ghb">
+<a href="https://builder.vueform.com/demo?ref=vite-starter">
   <img align="center" src="https://github.com/vueform/multiselect/raw/main/assets/vueform-banner-new.png" alt="Vueform" title="Vueform">
 </a>
 
