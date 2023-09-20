@@ -1,18 +1,10 @@
 <template>
-  <div id="app">
-    <VueformDemo></VueformDemo>
+  <div class="max-w-[700px] w-full mt-10 mb-16 mx-auto">
+    <VueformUiKit />
   </div>
 </template>
 
-<script>
-  import VueformDemo from './components/VueformDemo.vue'
-
-  export default {
-    name: 'App',
-    components: {
-      VueformDemo
-    }
-  }
+<script setup>
+import VueformUiKit from './components/VueformUiKit.vue'
 </script>
 
-<style></style>
