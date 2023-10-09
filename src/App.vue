@@ -1,10 +1,19 @@
 <template>
-  <div class="max-w-[700px] w-full mt-10 mb-16 mx-auto">
-    <VueformUiKit />
+  <div class="max-w-[500px] w-full mt-10 mb-16 mx-auto">
+    <Vueform v-bind="form" />
   </div>
 </template>
 
 <script setup>
-import VueformUiKit from './components/VueformUiKit.vue'
-</script>
+import { ref } from "vue";
 
+const form = ref({
+  schema: {
+    hello_world: {
+      type: "text",
+      label: "Hello",
+      placeholder: "World",
+    },
+  },
+});
+</script>
