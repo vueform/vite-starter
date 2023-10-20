@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
     "@vueform/vueform": "^1.4.0",
     "vue": "^3.3.4"
   },
