@@ -7,7 +7,7 @@
 
 # Vueform + Vite + Tailwind
 
-*Last tested with Vite 4.3.5.*
+*Last tested with Vite 5.2.7.*
 
 ## Installation
 
