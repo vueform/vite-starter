@@ -1,3 +1,5 @@
+
+
 <br>
 <a href="https://vueform.com?ref=vite-starter" target="_blank">
 
@@ -5,9 +7,9 @@
 
 </a>
 
-# Vueform + Vite + Tailwind
+# DEPRECATED: Vueform + Vite + Tailwind
 
-*Last tested with Vite 5.2.7.*
+> Please use `npm create vueform@latest` or [alterantives](https://vueform.com/docs/installation#installation) instead.
 
 ## Installation
 
